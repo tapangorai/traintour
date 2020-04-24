@@ -25,6 +25,12 @@
     margin-top: 50px;
 
 }
-
+/* change link color*/
+a{
+    color: #DC3545;
+}
+a:hover{
+    color: #E994A2;
+}
 
 /*font-family: 'Ubuntu', sans-serif;*/
